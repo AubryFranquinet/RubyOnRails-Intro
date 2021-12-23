@@ -70,3 +70,7 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+group :assets do
+  gem 'jquery-rails'
+end
